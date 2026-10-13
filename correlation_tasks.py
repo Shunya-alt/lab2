@@ -1,6 +1,8 @@
 """Задачи второй части лабораторной: корреляционный анализ."""
 from __future__ import annotations
 
+import pandas as pd
+
 from grader_contracts.correlation_tasks import BrainCorrelationSummary, BrainDataInput
 
 
